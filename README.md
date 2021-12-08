@@ -11,7 +11,7 @@
 ##### BIO
 
 - 🏢 I'm currently working as a freelance at **Avic Design**
-- ⚙️ I use daily: .js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: .js, .html, .css, scss, .svg, .psd, .ai`
 - 🌍 I'm mostly active within the **Next Js Community**
 - 💅 Designed: [Kenya Red Cross](http://www.redcross.or.ke/alphasite/), [Lucent](https://lucent.ke/), [Kenya Red Cross Training Institute](https://www.krcti.ac.ke/), etc…
 - 🌱 Learning all about **Open Source**
